@@ -66,3 +66,4 @@ print(coordenada)
 x, y = coordenadas()
 print(x, y)
 
+""" Prontamente estare repasando las tuplas con Platzi"""
